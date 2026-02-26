@@ -56,9 +56,3 @@ Soy un Ingeniero de Análisis de Datos enfocado en resultados, especializado en 
 
 - **LinkedIn:** [Daniel Medina González](https://www.linkedin.com/in/daniel-medina-glez-68244b174/)
 - **Email:** [danielmg012@gmail.com](mailto:danielmg012@gmail.com)
-
----
-
-### 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniielMG&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniielMG&layout=compact&theme=tokyonight)
